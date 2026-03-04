@@ -1,6 +1,4 @@
 <h1 align="center">🌌 Training Neural Networks and Myself 🌌</h1>
-<h3 align="center">In a world of zeros and ones, I choose both.</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Dev-Soham;Still+learning;Still+debugging;Still+evolving" alt="Typing SVG" />
 </p>
