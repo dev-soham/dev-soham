@@ -17,12 +17,8 @@
   <i>Just another curious human training both <b>Neural Networks</b> and <b>myself</b>.</i>
 </p>
 
-Currently exploring how code turns into intelligence  
-Learning the art of connecting logic, data, and creativity  
-Languages in my toolkit: C++, Java, Python  
-Trying to understand the cloud above (and the one on AWS)  
-Slowly diving into Data Science, AI & ML  
-I believe curiosity > experience  
+Developer | Tech enthusiast
+Building applications, exploring new technologies, and constantly learning to improve problem-solving skills.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-soham&label=Profile%20views&color=0e75b6&style=flat" alt="dev-soham" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-soham" alt="dev-soham" /></a> </p>
