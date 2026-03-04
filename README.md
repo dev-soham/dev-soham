@@ -17,7 +17,7 @@
   <i>Just another curious human training both <b>Neural Networks</b> and <b>myself</b>.</i>
 </p>
 
-Developer | Tech enthusiast
+Developer | Tech enthusiast <br>
 Building applications, exploring new technologies, and constantly learning to improve problem-solving skills.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-soham&label=Profile%20views&color=0e75b6&style=flat" alt="dev-soham" /> </p>
 
